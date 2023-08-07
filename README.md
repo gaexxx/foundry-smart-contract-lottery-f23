@@ -2,7 +2,7 @@
 
 # Foundry Smart Contract Lottery
 
-Lottery with true randmoness using Chainlink
+Lottery with true randomness using Chainlink
 
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
@@ -18,7 +18,6 @@ Lottery with true randmoness using Chainlink
   - [Scripts](#scripts)
   - [Estimate gas](#estimate-gas)
 - [Formatting](#formatting)
-- [Thank you!](#thank-you)
 
 # Getting Started
 

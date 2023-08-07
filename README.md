@@ -106,6 +106,12 @@ SEPOLIA_RPC_URL= get it here (https://alchemy.com/?a=673c802981)
 ETHERSCAN_API_KEY= get it here (https://etherscan.io/)
 ```
 
+and run:
+
+```
+source .env
+```
+
 1. Get sepolia testnet ETH and LINK
 
 ETH (https://sepoliafaucet.com/)

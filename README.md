@@ -98,11 +98,13 @@ forge coverage --report debug
 
 Set an `.env` like this:
 
+```
 PRIVATE_KEY_ANVIL= (you get it after running anvil)
 PRIVATE_KEY_SEPOLIA= (metamask private key)
 RPC_URL= (you get it after running anvil)
 SEPOLIA_RPC_URL= get it here (https://alchemy.com/?a=673c802981)
 ETHERSCAN_API_KEY= get it here (https://etherscan.io/)
+```
 
 1. Get sepolia testnet ETH and LINK
 
